@@ -10,11 +10,12 @@ Features
     Shows chances of rain if available.
 
 Installation
-Clone the repository:
 
-git clone <repository_url>
-cd weather-app
-Install the required dependencies. You need Python 3.x installed and the requests library:
+    Clone the repository:
+
+    git clone <repository_url>
+    cd weather-app
+    Install the required dependencies. You need Python 3.x installed and the requests library:
 
 
 pip install requests
