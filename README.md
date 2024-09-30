@@ -2,6 +2,7 @@
  This project is a Python-based command-line application that uses the OpenWeather API to fetch the current weather information for a specific city. The user has the option to input their desired city and state or use their current location based on their IP address to get real-time weather updates such as temperature, weather description (e.g., sunny, cloudy), and chances of rain.
 
 Features
+    
     Fetches weather data for any city and state (or country) entered by the user.
     Provides the option to automatically detect the user’s current location using their IP address.
     Displays the temperature in both Celsius and Fahrenheit.
